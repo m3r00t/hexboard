@@ -5805,6 +5805,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
+  background-image: url(../../rh-shadowman.jpg);
   background: black;
   z-index: 500;
   width: 100%;
