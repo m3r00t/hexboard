@@ -162,7 +162,7 @@ hex.board = (function board(d3, Rx) {
     svg.append('clipPath')
         .attr('id', 'clip')
       .append('rect')
-        .attr('class', 'mesh')
+        .attr('class', 'shadowman')
         .attr('width', content.x)
         .attr('height', content.y);
 

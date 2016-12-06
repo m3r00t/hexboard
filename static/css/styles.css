@@ -5771,7 +5771,7 @@ body {
   fill-opacity: 1.0;
 }
 .shadowman rect {
-  fill: black;
+  background-image: url(../../rh-shadowman.jpg);
 }
 .hexagon.inspect {
   stroke: rgba(204, 0, 0, 0.7);
