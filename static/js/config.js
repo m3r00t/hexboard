@@ -13,7 +13,6 @@ hex.config = (function() {
   return {
       backend: {
         ws: 'ws://' + window.location.host
-      },
-      winner_count: 10
+      }
   };
 })();
